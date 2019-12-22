@@ -1,5 +1,9 @@
 # pong
-Access local APIs using public domains
+Access local APIs using public domains 
+
+## Hardware requirements
+
+Publicly available machine (Linux) running with python 3.6, will be called remote in this README.md file
 
 ### Four main components
 
