@@ -1,4 +1,4 @@
-# pong
+# Pong
 Access local APIs using public domains 
 
 ## Hardware requirements
