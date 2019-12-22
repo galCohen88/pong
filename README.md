@@ -11,7 +11,7 @@ Publicly available machine (Linux) running with python 3.6, will be called remot
 2. Remote - WebSocket handler
 3. Remote - Redis pubsub broker
 4. Local  - Listener
-
+5. Development server - what ever language / http API
 
 ### Overall architecture
 Remote API will get any request method / URL and will decode it as pubsub message
