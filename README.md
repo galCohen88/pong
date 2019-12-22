@@ -15,7 +15,7 @@ Publicly available machine (Linux) running with python 3.6, will be called remot
 
 ### Overall architecture
 
-![Alt text](pong.png?raw=true "Diagram")
+![Alt text](Pong.png?raw=true "Diagram")
 
 
 * Remote API will get any request method / URL and will decode it as pubsub message
