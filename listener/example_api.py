@@ -4,6 +4,9 @@ app = Flask(__name__)
 
 @app.route('/test')
 def hello_world():
+    a = 1
+    b = 2
+    pass
     return 'Response from my local computer'
 
 
