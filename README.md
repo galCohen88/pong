@@ -14,6 +14,10 @@ Publicly available machine (Linux) running with python 3.6, will be called remot
 5. Development server - what ever language / http API
 
 ### Overall architecture
+
+![Alt text](pong.png?raw=true "Diagram")
+
+
 * Remote API will get any request method / URL and will decode it as pubsub message
 
 * The message will be consumed by WebSocket handler and will be sent to client machine
