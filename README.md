@@ -1,5 +1,5 @@
 # Pong
-Access local APIs using public domains, without exposing ports / router config / SSL tunneling
+Access local APIs using public domains, from anywhere (including VPN!) without exposing ports / change router config / SSL tunneling
 
 ## Hardware requirements
 
